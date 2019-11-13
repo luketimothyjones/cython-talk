@@ -24,6 +24,8 @@ All of the source code is in `/Code`, and the presentation files are in `/Presen
 
 `build_all.sh` and `build_all.bat` will automatically compile all of the source code in the repository for you using `cythonize`, which should be in your environment variables after installing `Cython`. If not, it is located in `[python install location]/Scripts/`. The scripts also tell `cythonize` to spit out HTML annotations of the code for studying purposes.
 
+After the code is built, the benchmark can be run via `python benchmark.py`
+
 &nbsp;
 
 ## Additional Resources
