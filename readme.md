@@ -3,6 +3,10 @@
 
 &nbsp;
 
+![Python with authors of C, C++, and Python as its heads](/Presentation/three-headed-python.png)
+
+&nbsp;
+
 ---
 ## Installing Requirements
 
